@@ -20,22 +20,22 @@ The total amount of ballots cast in this election (Mail-In Ballots, Punch Cards,
 
 ![Deliverable3-1](/Resources/Deliverable3-1.png)
 
-### 2)Who won the election, by what percentage, and with how many total votes
+### 2) Who won the election, by what percentage, and with how many total votes
 Diana DeGette won this election receiving 73.8% of the total votes or 272,892 votes. 
 
 ![Deliverable3-2](/Resources/Deliverable3-2.png)
 
-### 3)What percentage and total votes did all candidates receive
+### 3) What percentage and total votes did all candidates receive
 The percentage of candidate votes were not split evenly. Diana lead with 73.8% of the total vote count, followed far behind by Charles Stockham with 23.0% and then trailing even farther behind by Raymon Doane with only 3% of the votes.
 
 ![Deliverable3-3](/Resources/Deliverable3-3.png)
 
-### 4)What percentage and total votes came from each county
+### 4) What percentage and total votes came from each county
 There were three counties that were represented in this election. The split between the three counties was very uneven with Jefferson and Arapahoe counties taking up less than 50% of the total votes combined. 
 
 ![Deliverable3-4](/Resources/Deliverable3-4.png)
 
-### 5)What county did most of the ballots come from
+### 5) What county did most of the ballots come from
 Votes from Denver county made up the majority of the election results with 82.8% of the vote count (306,055).
 
 ![Deliverable3-5](/Resources/Deliverable3-5.png)
